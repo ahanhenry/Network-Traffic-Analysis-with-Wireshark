@@ -1,12 +1,12 @@
-| Filter                      | Purpose                             |
-| --------------------------- | ----------------------------------- |
-| `http`                      | Shows HTTP traffic only             |
-| `dns`                       | Shows DNS packets                   |
-| `arp`                       | Shows ARP traffic                   |
-| `tcp`                       | Shows TCP packets                   |
-| `udp`                       | Shows UDP packets                   |
-| `ip.addr == 192.168.56.101` | Shows traffic to/from a specific IP |
-| `tcp.port == 80`            | Shows traffic using port 80         |
-| `icmp`                      | Shows ping traffic                  |
-| `http.request`              | Shows HTTP requests only            |
-| `http.response`             | Shows HTTP responses only           |
+| Filter                      | Purpose                             
+| --------------------------| ----------------------------------- 
+| http                      | Shows HTTP traffic only             
+| dns                       | Shows DNS packets                   
+| arp                       | Shows ARP traffic                   
+| tcp                       | Shows TCP packets                   
+| udp                       | Shows UDP packets                   
+| ip.addr == 192.168.56.101 | Shows traffic to/from a specific IP 
+| tcp.port == 80            | Shows traffic using port 80         
+| icmp                      | Shows ping traffic                  
+| http.request              | Shows HTTP requests only            
+| http.response             | Shows HTTP responses only           
